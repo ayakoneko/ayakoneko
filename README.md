@@ -21,20 +21,17 @@ With **five years of financial services experience** at Citibank Tokyo, I bring 
 
 ---
 
-## 🔬 I’m Currently Working On  
+## 🔬 Ongoing Projects  
 
-- **Event Booking System (Laravel, SQLite)**  
-  *Tech:* Laravel, SQLite, Breeze, JavaScript, HTML, CSS  
+- 🎟️ **Event Booking System (PHP/Laravel, SQLite, Breeze, JavaScript, HTML, CSS)**  
   Developed a responsive event booking platform with Breeze authentication, CRUD operations, and database migration/seeding.  
   [🔗 View on GitHub](https://github.com/ayakoneko/EventBookingLaravel)
 
-- **Tetris Clone (Java/JavaFX, MVC)**  
-  *Tech:* Java, JavaFX, MVC, JSON  
+- 🎮 **Tetris Clone (Java/JavaFX, MVC, JSON)**  
   Implemented encapsulation, inheritance, and polymorphism; enhanced gameplay with AI play mode, two-player functionality, JSON scoring, and server integration.  
   [🔗 View on GitHub](https://github.com/Cedou90/G11_OOSD_Tetris_Game)
 
-- **Todoist Clone (Golang, PostgreSQL)**  
-  *Tech:* Golang, PostgreSQL
+- ✅ **Todoist Clone (Golang, PostgreSQL)**  
   Collaborating with QUT Code Network to build a task management system. Focused on API development and database schema design.  
   [🔗 View on GitHub](https://github.com/ayakoneko/TodoistClone)
 
