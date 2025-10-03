@@ -29,7 +29,7 @@ With **five years of financial services experience** at Citibank Tokyo, I bring 
 
 - 🎮 **Tetris Clone (Java/JavaFX, MVC, JSON)**  
   Implemented encapsulation, inheritance, and polymorphism; enhanced gameplay with AI play mode, two-player functionality, JSON scoring, and server integration.  
-  [🔗 View on GitHub](https://github.com/Cedou90/G11_OOSD_Tetris_Game)
+  [🔗 View on GitHub](https://github.com/ayakoneko/TetrisGamewithJava)
 
 - ✅ **Todoist Clone (Golang, PostgreSQL)**  
   Collaborating with QUT Code Network to build a task management system. Focused on API development and database schema design.  
